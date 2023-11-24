@@ -258,18 +258,7 @@
 		vertical-align: middle;
 	}
 
-	.facebook {
-		background-color: #d2d2d2;
-		background-color: rgba(255, 255, 255, 0.3);
-	}
-	.facebook:hover {
-		background-color: #3498db;
-		-webkit-transition: color ease .2s, background ease .2s;
-		-moz-transition: color ease .2s, background ease .2s;
-		-ms-transition: color ease .2s, background ease .2s;
-		-o-transition: color ease .2s, background ease .2s;
-		transition: color ease .2s, background ease .2s;	
-	}
+	
 
 	.linkedin {
 		background-color: #e6e6e6;
